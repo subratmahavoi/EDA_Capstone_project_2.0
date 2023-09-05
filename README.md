@@ -1,0 +1,11 @@
+# EDA_Capstone_project_2.0
+
+Terrorism has been a persistent problem for the world for the past one hundred years. The two World Wars and the Cold War have been marked by acts of terrorism, and the post-9/11 era has seen a sharp increase in terrorist activities.In 2021,the ressurgence of Taliban in South Asia had destabalized the region Over the years, terrorist groups have used various tactics such as suicide bombings, hijackings, and cyberattacks to create fear and instability. The rise of extremist ideologies and the proliferation of weapons have made it easier for these groups to carry out their attacks. Despite efforts by governments and international organizations to combat terrorism, it remains a significant threat to global peace and security. Vigilance and coordinated action are required to effectively address this problem.
+
+The Global Terrorism Dataset examines all instances of terrorism that have taken place since 1970. The dataset covers a range of categories and provides concise information about the affected region, the type of attack, the types of weapons used, the various types of targets and subcategories, the number of fatalities, and the extent of property damage.
+
+The primary focus of the EDA project is to examine the trends and inter-relationships between the different categories. The project provides insights into the trends related to the specific category that has been studied by the Institute of Economics and Peace. For instance, it explores the correlation between the affected region and the preferred type of attack. Additionally, the analysis delves deeper to answer questions such as whether there is a relationship between the attacked region and the preferred type of target or weapon. This information can be used by countries and regions to better understand the specific issues that affect them and to develop more targeted solutions.
+
+The world can anticipate the contributions of enthusiastic and compassionate data analysts who can generate valuable insights into ongoing terror attacks. These efforts would aid countries in creating effective policies, forming stronger coalitions, promoting cooperation, and implementing comprehensive steps to combat terrorism.
+
+This project summarise all the information and insights which could help countries to track the trends and correlation between terror attacks.
